@@ -7,4 +7,4 @@ What is required:
   - Program that will build the program.
 
 What you need to do:
-  -At file "MainWindow.xaml" in line 12, change "Source" to ur video or gif, by your choise.
+  - At file "MainWindow.xaml" in line 12, change "Source" to ur video or gif, by your choise.
